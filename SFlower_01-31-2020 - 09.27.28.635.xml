@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>SFlower_01-31-2020 - 09.27.28.635.JPG</filename>
+	<path>/home/starshoj/Desktop/images/SFlower_01-31-2020 - 09.27.28.635.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>object_without_bolt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>981</xmin>
+			<ymin>108</ymin>
+			<xmax>1390</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>take_object</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1071</xmin>
+			<ymin>290</ymin>
+			<xmax>1152</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>control_point</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1341</xmin>
+			<ymin>378</ymin>
+			<xmax>1342</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>
